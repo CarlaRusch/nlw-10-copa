@@ -19,7 +19,6 @@ body.blue {
 }
 
 body.green {
-   --card-title-border-color: #047C3F;
   --card-color-primary: #047C3F;
   --card-bg-color: #1a1f1b;
   --bg: url(./assets/bg-green.svg)
